@@ -1,0 +1,17 @@
+#a {
+    background-color: rgb(127, 67, 98);
+    display: inline-block;
+    margin: auto;
+    height: 200px;
+    width: 200px;
+}
+
+#b {
+    background-color: rgb(120, 126, 54);
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+}
+body {
+    background-color: rgb(161, 92, 2);
+}
